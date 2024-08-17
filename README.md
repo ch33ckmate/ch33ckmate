@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @ch33ckmate
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning IT 
-- 💞️ I’m looking to collaborate on anything am definetly your guy
-- 📫 How to reach me kennyndhlovine@gmail.com
-- 😄 Pronouns: am a guy and am straight
-- ⚡ Fun fact: am always available
+ Welcome to My GitHub Profile!
 
-<!---
-ch33ckmate/ch33ckmate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Mthulisi Kenny Ndlovu, an AI Engineer with experience in developing AI-driven solutions. Here’s a quick look at what I’ve been working on:
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages**: Python, Java, C++, SQL
+- **AI Frameworks**: TensorFlow, PyTorch, Keras
+- **Tools**: [GitHub Actions](https://github.com/features/actions), [Docker](https://www.docker.com/)
+
+## 🌟 Latest Projects
+
+- **[Project Name](link)**: A brief description of the project, its purpose, and technologies used.
+- **[Another Project](link)**: Overview of the project and its impact.
+
+## 💬 Get in Touch
+
+- [LinkedIn](yo)
+- [Email]:kennyndhlovine@gmail.com)
