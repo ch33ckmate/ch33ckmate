@@ -10,9 +10,6 @@ I’m Mthulisi Kenny Ndlovu, an AI Engineer with experience in developing AI-dri
 
 ## 🌟 Latest Projects
 
-- **[Project Name](link)**: A brief description of the project, its purpose, and technologies used.
-- **[Another Project](link)**: Overview of the project and its impact.
-
 ## 💬 Get in Touch
 
 - [LinkedIn](yo)
